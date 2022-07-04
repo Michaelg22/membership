@@ -3,9 +3,9 @@ class Database{
  
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "MyMembers";
-    private $username = "MichaelG";
-    private $password = "Michaelg22";
+    private $db_name = "$database";
+    private $username = "$username;
+    private $password = "$Password";
     public $conn;
  
     // get the database connection
